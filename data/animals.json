@@ -117,15 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Josh",
-      "species": "Doggo",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "goofy"
-      ],
-      "id": "12"
     }
   ]
 }
